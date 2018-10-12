@@ -35,10 +35,10 @@ Before creating a PR, please make sure to verify the following by marking the ch
 
 5. Any new folder you create in "src/pages" must have an index.md.
 
-6. All articles must have the following as the first three lines in the file:
+6. All the articles must have the following as the first three lines in the file:
 
 ---
-title: Article title goes here
----
 
+---
 -->
+
